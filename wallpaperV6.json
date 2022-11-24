@@ -1,5 +1,5 @@
 {
-  "Adsx": [
+  "Ads": [
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-M",
@@ -19,7 +19,7 @@
       "link_redirect": "https://"
     }
   ],
-  "Morex":
+  "More":
   [
     {
       "id":1,
@@ -200,10 +200,17 @@
       "title":"Shinobu Kochou Wallpaper",
       "image":"https://play-lh.googleusercontent.com/Q-b4oCY6bXuXE6vvNxXhssJ2uG-mJHM5UTxpwcy0byZrG3uW2Ud1RJJgYgpjTa6Cy_Tm=w240-h480-rw",
       "link":"https://play.google.com/store/apps/details?id=com.TimprutYepa.ShinobuKochouWallpaper&hl=in&gl=US"
+    },
+	{
+      "id":31,
+      "title":"Power Chainsaw Man Wallpaper",
+      "image":"https://play-lh.googleusercontent.com/ORiYFGnR9qzgGqnNkSfyMqA-6LhvZatq4aXvZLuNTI_tN2DeiYpEAzYLl0nRT7O6KQ=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.TimprutYepa.PowerChainsawManWallpaper&hl=in&gl=US"
     }
+	
   ],
 
-  "Categoriesx": [
+  "Categories": [
     {
       "id": 1,
       "name_category": "pk xd",
@@ -213,7 +220,7 @@
 	
   ],
 
-  "Datax":
+  "Data":
   [
     {
       "id":1,
